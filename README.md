@@ -1,1 +1,1 @@
-# crack_thermal_detection
+# Crack Thermal Detection
