@@ -1,0 +1,10 @@
+cv2
+tensorflow
+zipfile
+os
+numpy
+sys
+matplotlib
+itertoolls
+scipy.stats
+pandas
