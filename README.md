@@ -1,4 +1,4 @@
-# Sistema de Classificação de Fissuras Térmicas
+# Sistema de Classificação de Fissuras em Imagens Térmicas
 
   Este é um sistema de identificação de fissuras desenvolvido em Python utilizando OpenCV. 
   O sistema utiliza técnicas de Processamento de Imagem e Machine Learning para identificar a presença de fissuras em uma imagem térmica.
