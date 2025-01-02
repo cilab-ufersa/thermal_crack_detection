@@ -11,6 +11,6 @@ Processamento de Imagem: Utilizando OpenCV, o sistema realiza o pré-processamen
 Modelo de Machine Learning: O sistema utiliza um modelo de Machine Learning treinado previamente para classificação de fissuras. Este modelo foi treinado com uma variedade de imagens térmica de diferentes tipos de fissuras.
 
 ## Requisitos de Sistema
-Python 3.x
-OpenCV
-Bibliotecas Python: NumPy, Streamlit, scikit-learn, etc. (detalhes podem ser encontrados no arquivo requirements.txt)
+- Python 3.x
+- OpenCV
+- Bibliotecas Python: NumPy, Streamlit, scikit-learn, etc. (detalhes podem ser encontrados no arquivo requirements.txt)
